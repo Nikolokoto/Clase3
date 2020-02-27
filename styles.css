@@ -1,0 +1,59 @@
+.titulo-principal {
+    color: rgb(0, 139, 93);
+    font-family: 'Lobster', cursive;  
+    font-size: 50px;
+}
+
+.description {
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.box-model {
+    display: flex;
+    margin: 0 auto;
+    align-items: baseline;
+}
+
+.caja-poema {
+    display: inline-block;
+    padding: 30px;
+    margin: 0 auto;
+    width: 325px;
+}
+
+.titulo-poema {
+    color: rgb(115, 136, 67);
+    font-family: 'Varela Round', sans-serif;
+    font-size: 25px;
+    margin: unset;
+    text-align: center;
+}
+
+.debajo-titulo {
+    text-align: left;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.poema {
+    text-align: left;
+    font-family: 'Abel', sans-serif;
+}
+
+.img-conteiner {
+    align-items: center;
+    margin: auto;
+    width: 500px;
+}
+
+.img-gua {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
